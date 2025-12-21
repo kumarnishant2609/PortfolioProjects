@@ -1,4 +1,6 @@
 /*
+FIRST SQL PROJECT 
+
 Covid 19 Data Exploration 
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
@@ -146,4 +148,5 @@ WHERE dea.continent is not null
 --ORDER BY 2,3
 
 SELECT *
+
 FROM PercentPopulationVaccinated
